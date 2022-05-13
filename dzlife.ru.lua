@@ -1,5 +1,3 @@
--- A records 
-aaaa(_a, "2a02:2168:8700:4200:54c3:5c15:5237:3a32") 
--- CNAME records 
+aaaa(_a, "2a02:2168:8749:9700:9ce0:f2b9:209a:d76e")
 cname("www", _a)
 cname("rss", _a)
