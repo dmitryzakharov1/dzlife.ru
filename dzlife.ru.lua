@@ -1,4 +1,4 @@
-aaaa(_a, "2a02:2168:86fe:2400:27d3:9c66:d4b1:3992")
+aaaa(_a, "2a02:2168:870a:1600:f2bb:798e:e7:d3d1")
 cname("www", _a)
 cname("rss", _a)
 mx(_a, "mx.yandex.net.", 21600)
