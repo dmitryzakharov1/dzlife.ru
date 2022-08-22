@@ -1,4 +1,4 @@
-aaaa(_a, "2a02:2168:870a:1600:f2bb:798e:e7:d3d1")
+aaaa(_a, "2a02:2168:8702:1600:f3e7:b0b2:4c3f:7251")
 cname("www", _a)
 mx(_a, "mx.yandex.net.", 21600)
 txt(_a, "v=spf1 redirect=_spf.yandex.net")
