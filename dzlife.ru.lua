@@ -1,6 +1,5 @@
 a(_a, "95.84.149.244")
-aaaa(_a, "2a02:2168:8744:b300:78da:4c92:ea12:cccd
-2a02:2168:8752:7d00:93e:d0a6:42ef:1673")
+aaaa(_a, "2a02:2168:8744:b300:78da:4c92:ea12:cccd")
 cname("www", _a)
 cname("rss", _a)
 mx(_a, "mx.yandex.net.", 21600)
