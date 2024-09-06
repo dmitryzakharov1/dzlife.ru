@@ -1,4 +1,4 @@
-a(seafile, "109.107.165.99")
+a("seafile", "109.107.165.99")
 aaaa(_a, "2a02:2168:8745:4500:2354:fd9:e4eb:8d1e")
 cname("www", _a)
 cname("rss", _a)
