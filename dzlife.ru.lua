@@ -1,6 +1,8 @@
 a(_a, "37.110.17.247")
-aaaa(_a, "fdd3:cf44:d59b::f42
-fdd3:cf44:d59b:0:ffbc:dafb:7851:4352")
+aaaa(_a, "2a02:2168:8769:9700::f42
+fde8:60ae:c9::f42
+fde8:60ae:c9:0:bc60:9266:589f:7b6d
+2a02:2168:8769:9700:a70f:6fb3:9f50:9f8c")
 cname("www", _a)
 a("rsss.dzlife.ru.", "109.107.165.99")
 cname("rss", _a)
