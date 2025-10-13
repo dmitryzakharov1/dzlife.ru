@@ -1,5 +1,6 @@
 a(_a, "95.84.144.18")
 cname("www", _a)
+cname("ai", _a)
 a("rsss.dzlife.ru.", "109.107.165.99")
 cname("rss", _a)
 mx(_a, "mx.yandex.net.", 21600)
