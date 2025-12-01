@@ -1,4 +1,4 @@
-a(_a, "188.244.43.156")
+a(_a, "")
 cname("www", _a)
 cname("ai", _a)
 a("rsss.dzlife.ru.", "109.107.165.99")
