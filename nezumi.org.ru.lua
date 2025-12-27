@@ -1,4 +1,4 @@
-a(_a, "109.107.165.99")
+a(_a, "104.28.230.246")
 cname("www", _a)
 mx(_a, "mx.yandex.net.", 21600)
 txt(_a, "v=spf1 redirect=_spf.yandex.net")
